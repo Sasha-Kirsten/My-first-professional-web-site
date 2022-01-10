@@ -1,4 +1,4 @@
 # My-first-professional-web-site
 
 
-This is my first professional web site that involves, HTML, Javascript, EJS and SQL. 
+This is my first professional web site that involves, HTML, CSS, Javascript, EJS and SQL. 
